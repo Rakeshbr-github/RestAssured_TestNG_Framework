@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-18T21:54:34 IST" name="Rest_Assured_suite" finished-at="2025-05-18T21:54:42 IST" duration-ms="7856">
+    <groups>
+    </groups>
+    <test started-at="2025-05-18T21:54:34 IST" name="Rest_Assured_test" finished-at="2025-05-18T21:54:42 IST" duration-ms="7856">
+      <class name="api.testcases.User_TestCase2">
+        <test-method is-config="true" signature="setUpData()[pri:0, instance:api.testcases.User_TestCase2@5ba88be8]" started-at="2025-05-18T21:54:34 IST" name="setUpData" finished-at="2025-05-18T21:54:34 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+        <test-method signature="testpostuser()[pri:1, instance:api.testcases.User_TestCase2@5ba88be8]" started-at="2025-05-18T21:54:34 IST" name="testpostuser" finished-at="2025-05-18T21:54:37 IST" duration-ms="3031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostuser -->
+        <test-method signature="getUserByName()[pri:2, instance:api.testcases.User_TestCase2@5ba88be8]" started-at="2025-05-18T21:54:37 IST" name="getUserByName" finished-at="2025-05-18T21:54:39 IST" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserByName -->
+        <test-method signature="UpdateUser()[pri:3, instance:api.testcases.User_TestCase2@5ba88be8]" started-at="2025-05-18T21:54:39 IST" name="UpdateUser" finished-at="2025-05-18T21:54:40 IST" duration-ms="1531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUser -->
+        <test-method signature="deleteUser()[pri:4, instance:api.testcases.User_TestCase2@5ba88be8]" started-at="2025-05-18T21:54:40 IST" name="deleteUser" finished-at="2025-05-18T21:54:42 IST" duration-ms="1431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- api.testcases.User_TestCase2 -->
+    </test> <!-- Rest_Assured_test -->
+  </suite> <!-- Rest_Assured_suite -->
+</testng-results>

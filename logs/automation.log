@@ -1,0 +1,92 @@
+2025-05-18 21:41:02 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RAKESH~1\AppData\Local\Temp\testng-eclipse-671434940\testng-customsuite.xml"
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-18 21:41:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rakesh B R\AppData\Local\Temp\testng-eclipse-671434940\testng-customsuite.xml
+
+2025-05-18 21:41:03 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-05-18 21:41:03 INFO  User_TestCase2:44 - ***************Creating user********************
+2025-05-18 21:41:04 INFO  User_TestCase2:54 - ***************Reading user info********************
+2025-05-18 21:41:04 INFO  User_TestCase2:65 - ***************User info updating********************
+2025-05-18 21:41:04 INFO  User_TestCase2:80 - ***************User info deleting********************
+2025-05-18 21:41:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1ef93e01: 59 ms
+2025-05-18 21:41:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@65e05005: 12 ms
+2025-05-18 21:41:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@77204651: 15 ms
+2025-05-18 21:41:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@350342e0: 10 ms
+2025-05-18 21:41:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1fc3df43: 8 ms
+2025-05-18 21:41:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@15130002: 0 ms
+2025-05-18 21:45:24 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\RestAssured_TestNG_Framework\testng.xml"
+2025-05-18 21:45:24 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\RestAssured_TestNG_Framework\testng.xml
+
+2025-05-18 21:45:25 INFO  User_TestCase2:44 - ***************Creating user********************
+2025-05-18 21:45:26 INFO  User_TestCase2:54 - ***************Reading user info********************
+2025-05-18 21:45:26 INFO  User_TestCase2:65 - ***************User info updating********************
+2025-05-18 21:45:26 INFO  User_TestCase2:80 - ***************User info deleting********************
+2025-05-18 21:47:57 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\RestAssured_TestNG_Framework\testng.xml"
+2025-05-18 21:47:57 INFO  Utils:112 - [TestNG] Running:
+  C:\eclipse-workspace\RestAssured_TestNG_Framework\testng.xml
+
+2025-05-18 21:47:57 INFO  User_TestCase2:44 - ***************Creating user********************
+2025-05-18 21:48:00 INFO  User_TestCase2:54 - ***************Reading user info********************
+2025-05-18 21:48:02 INFO  User_TestCase2:59 - **************User info is displayed********************
+2025-05-18 21:48:02 INFO  User_TestCase2:65 - ***************User info updating********************
+2025-05-18 21:48:04 INFO  User_TestCase2:74 - ***************User info updated********************
+2025-05-18 21:48:04 INFO  User_TestCase2:80 - ***************User info deleting********************
+2025-05-18 21:50:26 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\RestAssured_TestNG_Framework\testng.xml"
+2025-05-18 21:50:27 INFO  User_TestCase2:44 - ***************Creating user********************
+2025-05-18 21:50:30 INFO  User_TestCase2:54 - ***************Reading user info********************
+2025-05-18 21:50:31 INFO  User_TestCase2:59 - **************User info is displayed********************
+2025-05-18 21:50:31 INFO  User_TestCase2:65 - ***************User info updating********************
+2025-05-18 21:50:33 INFO  User_TestCase2:74 - ***************User info updated********************
+2025-05-18 21:50:33 INFO  User_TestCase2:80 - ***************User info deleting********************
+2025-05-18 21:50:34 INFO  User_TestCase2:85 - ***************User info deleted********************
+2025-05-18 21:53:36 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\RestAssured_TestNG_Framework\testng.xml"
+2025-05-18 21:53:36 INFO  User_TestCase2:44 - ***************Creating user********************
+2025-05-18 21:53:39 INFO  User_TestCase2:54 - ***************Reading user info********************
+2025-05-18 21:53:41 INFO  User_TestCase2:65 - ***************User info updating********************
+2025-05-18 21:53:43 INFO  User_TestCase2:74 - ***************User info updated********************
+2025-05-18 21:53:43 INFO  User_TestCase2:80 - ***************User info deleting********************
+2025-05-18 21:54:09 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\RestAssured_TestNG_Framework\testng.xml"
+2025-05-18 21:54:09 INFO  User_TestCase2:44 - ***************Creating user********************
+2025-05-18 21:54:12 INFO  User_TestCase2:54 - ***************Reading user info********************
+2025-05-18 21:54:14 INFO  User_TestCase2:59 - **************User info is displayed********************
+2025-05-18 21:54:14 INFO  User_TestCase2:65 - ***************User info updating********************
+2025-05-18 21:54:16 INFO  User_TestCase2:74 - ***************User info updated********************
+2025-05-18 21:54:16 INFO  User_TestCase2:80 - ***************User info deleting********************
+2025-05-18 21:54:34 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\RestAssured_TestNG_Framework\testng.xml"
+2025-05-18 21:54:34 INFO  User_TestCase2:44 - ***************Creating user********************
+2025-05-18 21:54:37 INFO  User_TestCase2:54 - ***************Reading user info********************
+2025-05-18 21:54:39 INFO  User_TestCase2:59 - **************User info is displayed********************
+2025-05-18 21:54:39 INFO  User_TestCase2:65 - ***************User info updating********************
+2025-05-18 21:54:40 INFO  User_TestCase2:74 - ***************User info updated********************
+2025-05-18 21:54:40 INFO  User_TestCase2:80 - ***************User info deleting********************
+2025-05-18 21:54:42 INFO  User_TestCase2:85 - ***************User info deleted********************

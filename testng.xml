@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Rest_Assured_suite">
+
+<!-- For Extent report utility -->
+<listeners>
+ <listener class-name="api.utilities.ExtentReportManager"/>
+</listeners>
+
+
+
+  <test thread-count="5" name="Rest_Assured_test">
+    <classes>
+      <!--<class name="api.testcases.DDT"/>-->
+     <!-- <class name="api.testcases.User_TestCase"/>-->
+      <class name="api.testcases.User_TestCase2"/>
+    </classes>
+  </test> <!-- Rest_Assured_test -->
+</suite> <!-- Rest_Assured_suite -->
